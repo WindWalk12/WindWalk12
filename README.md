@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **WindWalk12/WindWalk12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![WindWalk's GitHub stats](https://github-readme-stats.vercel.app/api?username=WindWalk12&show_icons=true&theme=radical)
+<h1 align="center">
+  ### Hi there 👋
+  <br />
+  <br />
+  <a target="_blank" href="https://github.com/WindWalk12">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=WindWalk12&show_icons=true&theme=github_dark&count_private=true&hide=stars" />
+  </a>
+</h1>
