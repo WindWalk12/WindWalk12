@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">
-Hi there 👋 Just a student trying to learn to code and become better
+Hi there 👋 Just a student trying to become better at coding
   <br />
   <br />
   <a target="_blank" href="https://github.com/WindWalk12">
