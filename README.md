@@ -20,3 +20,6 @@ Hi there 👋 Just a student trying to become better at coding
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=WindWalk12&show_icons=true&theme=github_dark&count_private=true&hide=stars" />
   </a>
 </h1>
+
+
+Newest project: [RaveSphere](https://github.com/RaveSphere)
